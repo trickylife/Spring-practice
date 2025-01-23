@@ -13,7 +13,7 @@
 </head>
 <body>
 	<div id="logo">
-		한국 ICT 인재개발원1
+		한국 ICT 인재개발원
 	</div>
 	<div class="main-menu">
 		<div><a href="${pageContext.request.contextPath}/">홈</a></div>
