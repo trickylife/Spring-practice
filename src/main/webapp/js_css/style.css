@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body,ul,li{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	list-style-type: none;
+}
+.main-menu a:link, .main-menu a:visited{
+	color: #fff;
+	text-decoration: none;
+}
+#logo{
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	font-size: 3em;
+}
+.main-menu{
+	display: flex;
+	justify-content: center;
+	gap: 30px;
+	background-color: navy;
+	font-size: 1.2em;
+	line-height: 50px;
+}
